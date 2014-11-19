@@ -1,0 +1,23 @@
+{
+  "name": "creativecommonskorea.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/creativecommonskorea/creativecommonskorea.github.io",
+  "authors": [
+    "Yeongtaek Hong <mozodev@cckorea.org>"
+  ],
+  "description": "Creative Commons Korea",
+  "main": "/dist/css/build.min.css",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1"
+  }
+}
